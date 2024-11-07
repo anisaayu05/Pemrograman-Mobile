@@ -5,7 +5,9 @@
 Proyek ini adalah bagian dari mata kuliah Pemrograman Mobile untuk mengajarkan pengembangan aplikasi mobile dengan **Flutter**. Fokus utama mencakup **navigasi**, **state management**, dan **akses data**.
 
 ### Tautan Prototipe Figma
-Untuk melihat prototipe aplikasi HireMe, silakan kunjungi: [Figma Prototype](https://www.figma.com/design/bCdjLRwIq7X6V5IIX8K3rW/HireMe-App?node-id=0-1&t=FbXNFhbINDSmzJEv-1)
+
+Untuk melihat prototipe aplikasi HireMe, silakan kunjungi: [Figma Prototype](https://www.figma.com/design/q5WMLZcS50J5bUf1KeXcyy/HireMe?node-id=0-1&t=xE9f04fj3KZ2MzFS-1)
+
 
 ### Deskripsi Aplikasi
 
@@ -47,7 +49,11 @@ Aplikasi ini memiliki **navigation bar** yang terdiri dari empat tab yang dapat 
   - **Deskripsi Perusahaan**
   - **Tombol Lamaran** untuk memulai proses aplikasi.
 
+<<<<<<< HEAD
 ##### **Proses Melamar Pekerjaan**
+=======
+#### **Proses Melamar Pekerjaan**
+>>>>>>> main
 - **Mengisi Formulir Lamaran**: Pengguna mengisi informasi pribadi, pengalaman kerja, dan pendidikan.
 - **Upload CV**: CV diunggah dalam format PDF atau DOCX dengan instruksi yang jelas.
 - **Konfirmasi Lamaran**: Pengguna menerima konfirmasi setelah melamar.
