@@ -49,11 +49,7 @@ Aplikasi ini memiliki **navigation bar** yang terdiri dari empat tab yang dapat 
   - **Deskripsi Perusahaan**
   - **Tombol Lamaran** untuk memulai proses aplikasi.
 
-<<<<<<< HEAD
-##### **Proses Melamar Pekerjaan**
-=======
 #### **Proses Melamar Pekerjaan**
->>>>>>> main
 - **Mengisi Formulir Lamaran**: Pengguna mengisi informasi pribadi, pengalaman kerja, dan pendidikan.
 - **Upload CV**: CV diunggah dalam format PDF atau DOCX dengan instruksi yang jelas.
 - **Konfirmasi Lamaran**: Pengguna menerima konfirmasi setelah melamar.
